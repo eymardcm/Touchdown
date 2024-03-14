@@ -9,6 +9,7 @@ import SwiftUI
 
 struct RatingsSizesDetailView: View {
     // MARK: - PROPERTIES
+    
     let sizes: [String] = ["XS", "S", "M", "L", "XL"]
     
     // MARK: - BODY
